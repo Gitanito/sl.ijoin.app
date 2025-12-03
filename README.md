@@ -1,0 +1,2 @@
+# sl.ijoin.app
+Slovenisch
