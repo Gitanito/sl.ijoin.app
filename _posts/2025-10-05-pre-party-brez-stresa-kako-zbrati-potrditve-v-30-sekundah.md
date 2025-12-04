@@ -4,6 +4,7 @@ title: Pre-Party brez stresa- Kako zbrati potrditve v 30 sekundah
 subtitle: Organizacija predkoncertnega druženja je lahko enostavna in hitra
 tags: [organizacija dogodkov, predkoncertno druženje]
 author: ijoin.app
+language: sl
 ---
 
 # Želite popolno predkoncertno zabavo? Prenehanje zasledovanja gostov je prvi korak.

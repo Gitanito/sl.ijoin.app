@@ -4,6 +4,7 @@ title: Konec Kaosu Pri Organizaciji Družinskih Izletov
 subtitle: Kako Starši Hitro in Brezplačno Organizirajo Spontana Srečanja
 tags: [organizacija dogodkov, starševstvo]
 author: ijoin.app
+language: sl
 ---
 
 # Igrišče Na Klik - Preprosta Organizacija Spontanih Družinskih Srečanj

@@ -4,6 +4,7 @@ title: Konec Kaosa Pri Organizaciji Spontanih Dogodkov
 subtitle: Kako v 30 sekundah organizirati park piknik ali flashmob brez prijav
 tags: [organizacija dogodkov, brez registracije]
 author: ijoin.app
+language: sl
 ---
 # Konec Kaosa Pri Organizaciji Spontanih Dogodkov
 

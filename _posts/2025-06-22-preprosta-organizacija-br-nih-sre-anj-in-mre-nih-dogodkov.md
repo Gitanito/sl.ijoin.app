@@ -4,6 +4,7 @@ title: Preprosta Organizacija Bržnih Srečanj in Mrežnih Dogodkov
 subtitle: Kako izjemno hitro zbrati strokovnjake za neformalno druženje
 tags: [organizacija dogodkov, mreženje]
 author: ijoin.app
+language: sl
 ---
 
 # Preprosta Organizacija Bržnih Srečanj in Mrežnih Dogodkov

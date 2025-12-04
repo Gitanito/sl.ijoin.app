@@ -4,6 +4,7 @@ title: Konec Kaosa- Enostavna Organizacija Pohodov in Kolesarskih Tur
 subtitle: Registracija za Izlete Brez Registracije - Preprosto in Učinkovito
 tags: [organizacija dogodkov, ijoin.app]
 author: ijoin.app
+language: sl
 ---
 
 # Konec Kaosa- Registracija za Izlete Brez Registracije - Preprosto in Učinkovito

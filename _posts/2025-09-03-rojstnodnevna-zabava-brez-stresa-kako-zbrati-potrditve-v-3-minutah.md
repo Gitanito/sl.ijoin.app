@@ -4,6 +4,7 @@ title: Rojstnodnevna zabava brez stresa- Kako zbrati potrditve v 3 minutah
 subtitle: Končno preprosto orodje za organizacijo dogodkov- brez prijav in zapletov
 tags: [organizacija dogodkov, potrditev prisotnosti]
 author: ijoin.app
+language: sl
 ---
 
 # Rojstnodnevna zabava brez stresa: Maksimizirajte udeležbo z eno samo povezavo

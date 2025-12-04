@@ -4,6 +4,7 @@ title: Preprosta Prijava na Töpferski Tečaj za Začetnike - Brez Zapletov
 subtitle: Maksimalna udeležba in minimalen stres pri organizaciji dogodkov in tečajev
 tags: [organizacija dogodkov, prijava na tečaj]
 author: ijoin.app
+language: sl
 ---
 # Ste Naveličani Zapletenih Prijav na Vaše Tečaje in Dogodke?
 

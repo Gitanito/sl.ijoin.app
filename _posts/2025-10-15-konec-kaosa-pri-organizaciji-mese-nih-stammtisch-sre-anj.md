@@ -4,6 +4,7 @@ title: Konec Kaosa Pri Organizaciji Mesečnih Stammtisch Srečanj
 subtitle: Končno Enostavna Prijava in Komunikacija za Vaše Poslovne Dogodke
 tags: [organizacija dogodkov, poslovni dogodki]
 author: ijoin.app
+language: sl
 ---
 # Konec Kaosa Pri Organizaciji Mesečnih Stammtisch Srečanj
 

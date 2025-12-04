@@ -4,6 +4,7 @@ title: Konec Kaosa - Brezplačna Organizacija Spontanih Co-Working Srečanj
 subtitle: Povečajte udeležbo na vaših freelance in co-working dogodkih brez registracij
 tags: [coworking, organizacija dogodkov]
 author: ijoin.app
+language: sl
 ---
 
 # Konec Kaosa - Brezplačna Organizacija Spontanih Co-Working Srečanj

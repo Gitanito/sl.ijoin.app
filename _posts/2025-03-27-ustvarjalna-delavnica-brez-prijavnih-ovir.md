@@ -4,6 +4,7 @@ title: Ustvarjalna delavnica brez prijavnih ovir
 subtitle: Kako maksimirati udeležbo na vašem dogodku ali delavnici
 tags: [organizacija dogodkov, brez registracije]
 author: ijoin.app
+language: sl
 ---
 # Ustvarjalna delavnica brez prijavnih ovir – Več udeležencev, manj stresa
 

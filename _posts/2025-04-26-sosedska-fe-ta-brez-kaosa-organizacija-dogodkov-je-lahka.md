@@ -4,6 +4,7 @@ title: Sosedska Fešta brez Kaosa - Organizacija Dogodkov je Lahka
 subtitle: Kako s preprostim orodjem doseči 100% odzivnost na vabilo za sosedsko zabavo
 tags: [organizacija dogodkov, sosedska fešta]
 author: ijoin.app
+language: sl
 ---
 
 # Sosedska Fešta brez Kaosa - Organizacija Dogodkov je Lahka

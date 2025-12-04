@@ -4,6 +4,7 @@ title: Konec Kaosa Pri Vabilih na Beta Testiranje
 subtitle: Povabite testerje brez registracije in maksimizirajte udeležbo
 tags: [organizacija dogodkov, beta testiranje]
 author: ijoin.app
+language: sl
 ---
 
 # Konec Kaosa Pri Vabilih na Beta Testiranje – Brez Registracije!

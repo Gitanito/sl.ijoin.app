@@ -4,6 +4,7 @@ title: Konec Kaosa- Šolski Izleti in Organizacija Prevozov
 subtitle: Preprost 3-stopenjski načrt za popolno koordinacijo prevozov staršev
 tags: [organizacija dogodkov, šolski izlet]
 author: ijoin.app
+language: sl
 ---
 
 # Preprosta Koordinacija Prevozov za Šolske Izlete- Brez Zapletov

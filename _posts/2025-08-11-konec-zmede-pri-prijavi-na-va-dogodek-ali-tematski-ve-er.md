@@ -4,6 +4,7 @@ title: Konec zmede pri prijavi na vaš dogodek ali tematski večer
 subtitle: Kako maksimalno povečati udeležbo na bralnih, športnih ali klubskih srečanjih
 tags: dogodki, prijava
 author: ijoin.app
+language: sl
 ---
 
 # Preprosta **Organizacija Dogodkov** in Maksimalna Udeležba na Tematskih Večerih

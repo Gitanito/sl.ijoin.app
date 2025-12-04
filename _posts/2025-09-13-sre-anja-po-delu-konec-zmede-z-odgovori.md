@@ -4,6 +4,7 @@ title: Srečanja po Delu - Konec Zmede z Odgovori
 subtitle: Organizirajte After-Work Pijačo Brez E-mail Verig
 tags: [organizacija dogodkov, after-work]
 author: ijoin.app
+language: sl
 ---
 # Takojšnja Organizacija After-Work Pijače in Družabnih Dogodkov
 

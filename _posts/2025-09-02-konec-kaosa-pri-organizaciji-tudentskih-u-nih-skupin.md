@@ -4,6 +4,7 @@ title: Konec Kaosa Pri Organizaciji Študentskih Učnih Skupin
 subtitle: Kako hitro in brezplačno zbrati ekipo za uspeh na izpitu
 tags: [študentska organizacija, učna skupina]
 author: ijoin.app
+language: sl
 ---
 # Konec Kaosa Pri Organizaciji Študentskih Učnih Skupin
 

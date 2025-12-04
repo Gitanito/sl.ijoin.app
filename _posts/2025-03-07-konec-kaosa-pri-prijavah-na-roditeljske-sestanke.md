@@ -4,6 +4,7 @@ title: Konec kaosa pri prijavah na Roditeljske sestanke
 subtitle: Preprosta in brezplačna rešitev za učinkovito organizacijo terminov za starše
 tags: [roditeljski sestanki, organizacija dogodkov]
 author: ijoin.app
+language: sl
 ---
 
 # Preprosta rezervacija terminov za Roditeljske sestanke – brez prijav in brez stresa

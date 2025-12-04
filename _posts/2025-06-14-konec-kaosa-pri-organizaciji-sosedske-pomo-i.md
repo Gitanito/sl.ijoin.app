@@ -4,6 +4,7 @@ title: Konec Kaosa Pri Organizaciji Sosedske Pomoči
 subtitle: Kako s preprosto povezavo zbrati prostovoljce za akcijo v soseski
 tags: [sosedska pomoč, organizacija dogodkov]
 author: ijoin.app
+language: sl
 ---
 # Pozabite na 20 Sporočil V Skupini – Organizirajte Pomoč s Samosvojim Sistemom
 

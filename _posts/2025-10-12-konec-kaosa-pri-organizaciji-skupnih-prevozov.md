@@ -4,6 +4,7 @@ title: Konec Kaosa Pri Organizaciji Skupnih Prevozov
 subtitle: Kako preprosto uskladiti prevoze za športne dogodke in potovanja na delo
 tags: [organizacija prevozov, dogodki]
 author: ijoin.app
+language: sl
 ---
 
 # Preprosta Usklajevanje Prevozov- Poslovite se od Neskončnih SMS Sporočil

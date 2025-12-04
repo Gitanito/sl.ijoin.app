@@ -4,6 +4,7 @@ title: Konec Kaosa Pri Zbiranje Povratnih Informacij za Prototip
 subtitle: Kako UX/UI Strokovnjaki Hitro Zberejo Kvalitetne Odzive Brez Težav
 tags: [organizacija dogodkov, zbiranje povratnih informacij]
 author: ijoin.app
+language: sl
 ---
 
 # Konec Kaosa Pri Zbiranje Povratnih Informacij za Prototip

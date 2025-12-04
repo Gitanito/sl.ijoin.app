@@ -4,6 +4,7 @@ title: Konec Kaosu pri Organizaciji Šolskih Dogodkov
 subtitle: Kako preprosto koordinirati prostovoljce za šolski sejem ali tržnico
 tags: [šolski dogodki, koordinacija prostovoljcev]
 author: ijoin.app
+language: sl
 ---
 
 # Ste naveličani lovljenja prostovoljcev za šolski sejem? Koordinacija prostovoljcev je lahko preprosta!

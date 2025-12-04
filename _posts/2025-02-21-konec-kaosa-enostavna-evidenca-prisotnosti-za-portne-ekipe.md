@@ -4,6 +4,7 @@ title: Konec Kaosa- Enostavna Evidenca Prisotnosti za Športne Ekipe
 subtitle: Kako trenerji in vodje ekip z ijoin.app dosežejo maksimalno odzivnost staršev brez registracije
 tags: [športna organizacija, evidenca prisotnosti]
 author: ijoin.app
+language: sl
 ---
 
 # Preprosto Upravljanje Prisotnosti na Treningih in Tekmah

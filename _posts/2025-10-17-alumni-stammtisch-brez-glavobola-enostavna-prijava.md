@@ -4,6 +4,7 @@ title: Alumni-Stammtisch brez glavobola - Enostavna prijava
 subtitle: Organizacija dogodkov za združenja in klube brez registracije
 tags: [organizacija dogodkov, alumni]
 author: ijoin.app
+language: sl
 ---
 # Alumni-Stammtisch brez glavobola - Enostavna prijava
 

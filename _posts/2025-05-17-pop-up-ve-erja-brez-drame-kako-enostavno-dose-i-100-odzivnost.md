@@ -4,6 +4,7 @@ title: Pop-up Večerja brez Drame - Kako Enostavno Doseči 100% Odzivnost
 subtitle: Organizirajte ekskluzivne dogodke z enim samim klikom, brez prijav za goste
 tags: [organizacija dogodkov, pop-up večerja]
 author: ijoin.app
+language: sl
 ---
 
 # Pop-up Večerja brez Drame - Kako Enostavno Doseči 100% Odzivnost

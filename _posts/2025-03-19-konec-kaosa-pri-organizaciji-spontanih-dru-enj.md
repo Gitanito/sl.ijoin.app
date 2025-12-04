@@ -4,6 +4,7 @@ title: Konec kaosa pri organizaciji spontanih druženj
 subtitle: Organizacija pijače s prijatelji v zadnjem hipu- Enostavno in brez prijav
 tags: [organizacija dogodkov, spontano druženje]
 author: ijoin.app
+language: sl
 ---
 
 # Ste naveličani neskončnih sporočil v skupinskih klepetih o tem, kdo pride na pijačo?

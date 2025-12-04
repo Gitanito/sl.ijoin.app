@@ -4,6 +4,7 @@ title: Konec Muke z Vabilom na Knjižni Klub
 subtitle: Povečajte udeležbo na srečanjih brez registracij in prijav
 tags: [organizacija dogodkov, knjižni klub]
 author: ijoin.app
+language: sl
 ---
 
 # Preprosta Usklajevanja za Knjižne Klube – Končno!

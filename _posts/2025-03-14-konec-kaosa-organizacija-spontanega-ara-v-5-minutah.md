@@ -4,6 +4,7 @@ title: Konec Kaosa- Organizacija Spontanega Žara v 5 Minutah
 subtitle: Organizirajte popoln žar ob jezeru brez registracij in dolgih SMS verig
 tags: [organizacija dogodkov, žar ob jezeru]
 author: ijoin.app
+language: sl
 ---
 
 # Konec Kaosa: Organizirajte Popoln Spontani Žar ob Jezeru v 5 Minutah

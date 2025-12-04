@@ -4,6 +4,7 @@ title: Konec zmede pri prijavi na delavnice in dogodke
 subtitle: Organizirajte Skill-Share srečanja brez registracije za udeležence
 tags: [organizacija dogodkov, skill-share]
 author: ijoin.app
+language: sl
 ---
 
 # Preprosta organizacija Skill-Share dogodkov, ki res deluje

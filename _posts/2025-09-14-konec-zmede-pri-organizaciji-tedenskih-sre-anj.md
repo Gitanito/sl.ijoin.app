@@ -4,6 +4,7 @@ title: Konec zmede pri organizaciji tedenskih srečanj
 subtitle: Organizirajte redne dogodke in potrditve udeležbe brez registracije z ijoin.app
 tags: [organizacija dogodkov, potrditev udeležbe]
 author: ijoin.app
+language: sl
 ---
 # Konec zmede pri organizaciji tedenskih srečanj in hobijev!
 

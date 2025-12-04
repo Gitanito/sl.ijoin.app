@@ -4,6 +4,7 @@ title: Konec Kaosa Pri Organizaciji Dogodkov - Enostavno Vabilo
 subtitle: Maksimizirajte udeležbo na šolskih in društvenih dogodkih brez registracij
 tags: [organizacija dogodkov, šolsko somerfest]
 author: ijoin.app
+language: sl
 ---
 # Konec Kaosa Pri Organizaciji Dogodkov: Kako Starševski Sestanek Postane Preprost
 
